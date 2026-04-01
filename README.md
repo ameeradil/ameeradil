@@ -35,14 +35,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ameeradil&theme=dark&hide_border=false" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy-one.vercel.app?username=ameeradil&theme=dark&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameeradil&show_icons=true&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameeradil&layout=compact&theme=dark&hide_border=false" height="150" alt="top langs"  />
 </div>
 
 ###
