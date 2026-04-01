@@ -55,6 +55,9 @@
 ###
 
 <div align="center">
+  <a href="https://ameeradil.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=FFCC00&logoColor=black&style=for-the-badge" height="25" alt="website logo"  />
+  </a>
   <a href="https://www.chess.com/member/ameer-adil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Chess.com&logo=chess.com&label=&color=779455&logoColor=white&style=for-the-badge" height="25" alt="chess logo"  />
   </a>
