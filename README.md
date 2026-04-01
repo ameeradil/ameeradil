@@ -36,11 +36,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ameeradil&theme=dark&hide_border=false" height="150" alt="streak graph"  />
 </div>
-
-###
-
-#### 🚀 Featured Projects
-
-* **Naktib:** An offline-first PWA for mastering Arabic touch-typing.
-* **Secret Message Sharing:** A database-free decentralized app using URL hash fragments and Base64 encoding.
-* **E-Commerce Engine:** A full-stack platform built with a custom server-side routing architecture.
