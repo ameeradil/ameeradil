@@ -55,9 +55,6 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/ameer-eltaib" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
   <a href="https://www.chess.com/member/ameer-adil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Chess.com&logo=chess.com&label=&color=779455&logoColor=white&style=for-the-badge" height="25" alt="chess logo"  />
   </a>
