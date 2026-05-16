@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">
+<p>
   <strong>Software Developer | Systems Engineering Enthusiast</strong>
 </p>
 
-<p align="center">
+<p>
   I focus on building resilient backend systems and efficient software solutions. My approach to development is rooted in deep logic and system independence, prioritizing performance and clean architecture.
 </p>
 
